@@ -1,6 +1,6 @@
 # Don't Remove Credit Tg - @ytbr_67
 # Ask Doubt on telegram @ytbr_67
-
+import sys
 import os
 import re
 import sys
