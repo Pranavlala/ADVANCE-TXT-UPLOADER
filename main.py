@@ -41,7 +41,7 @@ from pyrogram.types.messages_and_media import message
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
 # MongoDB configuration
-MONGO_URI = os.getenv("MONGO_URI", "mongodb://localhost:27017")
+MONGO_URI = os.getenv("MONGO_URI", "mongodb+srv://<pranavraj147>:<Pranavyadav>@cluster0.ctggzbm.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 DB_NAME = "PremiumBot"
 COLLECTION_NAME = "PremiumUsers"
 
